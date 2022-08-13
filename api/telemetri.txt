@@ -1,0 +1,19 @@
+12.08.2022 19:37:40 tarihinde 
+    "takim_numarasi": 10,
+        "IHA_enlem": 41.5529442,
+        "IHA_boylam": 32.29073,
+        "IHA_irtifa": 0.014,
+        "IHA_dikilme": 0.00110085029,
+        "IHA_yatis": 0.00130481715,
+        "IHA_yonelme": 0.018120205,
+        "IHA_hiz": 0.0275679976,
+        "IHA_batarya": 12.587,
+        "IHA_otonom": 0,
+        "IHA_kilitlenme": 0,
+        "Hedef_merkez_X": 0,
+        "Hedef_merkez_Y": 0,
+        "Hedef_genislik": 0,
+        "Hedef_yukseklik": 0,
+        "GPSSaati": { "saat": 16, "dakika": 37, "saniye": 39, "milisaniye": 396528} verisi geldi 
+
+
